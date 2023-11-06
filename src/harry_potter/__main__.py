@@ -1,8 +1,7 @@
-from create_wizard import CreateWizard
+
 
 def main():
-  wizard_instance = CreateWizard()
-  print(wizard_instance.chooseHouse("Griffindor"))
-  
+  print("hello world !!!")
+
 if __name__ == '__main__':
-  main()
+    main()
