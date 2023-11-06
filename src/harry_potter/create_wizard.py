@@ -14,7 +14,7 @@ class CreateWizard:
 
     #Get the number of harry potter candies
     def chooseCandy(self, n):
-    
+        
         for i in range(n):
              rand = random.randint(0, 78)
              print(harry_potter_candies[rand])
@@ -31,7 +31,7 @@ class CreateWizard:
             print(f"Action: {prefix_key_list[randP]} {suffix_key_list[randS]}")
             print(f"Translation: {prefix_value_list[randP]} {suffix_value_list[randS]}\n")
 
-      
+
     def chooseAnimal(self):
         pass
 
