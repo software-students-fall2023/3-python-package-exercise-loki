@@ -1,7 +1,10 @@
-
+from create_wizard import CreateWizard
 
 def main():
-  print("hello world !!!")
-
+  p = CreateWizard()
+  p.chooseCandy()
+  
 if __name__ == '__main__':
+    
+ 
     main()

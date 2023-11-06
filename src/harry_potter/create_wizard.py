@@ -1,4 +1,4 @@
-
+from  arrayFile import harry_potter_candies
 
 class CreateWizard:
     
@@ -10,9 +10,15 @@ class CreateWizard:
     def pickName(slef):
         pass
 
-    def chooseCandy(self):
-        pass
 
+    #Get the number of harry potter candies
+    def chooseCandy(n):
+        
+        for i in range(n):
+             rand = random.randint(0, 80)
+             print(harry_potter_candies[rand])
+
+    
     def chooseAnimal(self):
         pass
 
