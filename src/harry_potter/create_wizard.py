@@ -2,7 +2,7 @@ import openai
 import json 
 from dotenv import load_dotenv
 import random
-from .house_quiz_questions import house_questions
+from house_quiz_questions import house_questions
 import os
 
 class CreateWizard:
@@ -12,6 +12,7 @@ class CreateWizard:
         api_key = os.getenv("OPENAI_API_KEY")
         openai.api_key = api_key
     
+    #Lettting user choose the name
     def wizardNameGenerator(self, type):
         if isinstance(type, str) and type != "":
             pass
@@ -35,6 +36,7 @@ class CreateWizard:
     def chooseAnimal(self):
         pass
 
+    #Lettting user match the house
     def chooseHouse(self, preference):
         if isinstance(preference, str):
             pass
@@ -60,7 +62,7 @@ class CreateWizard:
                 house_scores[preference] += 1
             max_score = max(house_scores.values())
             possible_houses = [house for house, score in house_scores.items() if score == max_score]
-
+            
             if len(possible_houses) == 1:
                 selected_house = possible_houses[0]
             else:
