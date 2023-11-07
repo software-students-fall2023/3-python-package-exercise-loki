@@ -33,6 +33,7 @@ class CreateWizard:
         
         # check if entered input belongs to one of the houses
         if(lowercase != "gryffindor" and lowercase != "hufflepuff" and lowercase != "ravenclaw" and lowercase != "slytherin"):
+            print("enter a correct house")
             return "enter a correct house"
 
         points = 0
