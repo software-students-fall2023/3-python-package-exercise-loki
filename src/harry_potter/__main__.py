@@ -1,8 +1,12 @@
-from create_wizard import CreateWizard
+from create_wizard import CreateWizardfrom create_wizard import CreateWizard
 
 def main():
-  wizard_instance = CreateWizard()
-  print(wizard_instance.chooseHouse("Griffindor"))
-  
+  p = CreateWizard()
+
+  print(p.chooseCandy(5))
+  print(p.generateFightingSpell(5))
+
+
 if __name__ == '__main__':
+     
   main()
