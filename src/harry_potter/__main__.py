@@ -2,9 +2,9 @@ from create_wizard import CreateWizard
 
 def main():
    val = CreateWizard()
-   val.chooseAnimal("gryffindor")
+   val.chooseAnimal("slytherin")
    
-   print("hello world !!!")
+   
 
 if __name__ == '__main__':
    
