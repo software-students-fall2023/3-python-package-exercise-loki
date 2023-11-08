@@ -13,7 +13,7 @@ def test_candy_list_length_zero():
 def test_candy_list_length_10000():    
     assert(len(CreateWizard().chooseCandy(10000)) == 10000)
 
-##******************##
+##*********************##
 
 def test_fightingSpell_always_passed_num(): 
     assert(CreateWizard().generateFightingSpell("hello World") == False)
