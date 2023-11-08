@@ -31,3 +31,5 @@ Our project is Harry Potter-based and is split into five different functions:
 ## Usage
 
 ## Contribute 
+
+- Testing 
