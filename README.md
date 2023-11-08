@@ -1,6 +1,6 @@
 # Create your own Wizard
 
-[![Samuel's Test](https://github.com/software-students-fall2023/3-python-package-exercise-loki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/software-students-fall2023/3-python-package-exercise-loki/actions/workflows/main.yml)
+[![Samuel's Badge](https://github.com/software-students-fall2023/3-python-package-exercise-loki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/software-students-fall2023/3-python-package-exercise-loki/actions/workflows/main.yml)
 
 
 ## Authors
