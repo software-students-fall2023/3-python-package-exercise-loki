@@ -1,6 +1,7 @@
 # Create your own Wizard
 
-![Samuel's Badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![Samuel's Badge](https://github.com/software-students-fall2023/3-python-package-exercise-loki/actions/workflows/main/badge.svg)
+
 
 ## Authors
 
