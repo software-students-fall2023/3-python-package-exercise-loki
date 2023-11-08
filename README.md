@@ -34,8 +34,18 @@ Our project is Harry Potter-based and is split into five different functions:
 ## Contribute 
 - Clone the repository
 ```
-Git clone https://github.com/software-students-fall2023/3-python-package-exercise-loki.git
+git clone https://github.com/software-students-fall2023/3-python-package-exercise-loki.git
 ```
 
 - Install the virtual environment
+```
+python3 -m venv .venv
+
+source .venv/bin/activate
+```
+
+- Install the requierments
+```
+pip3 install -r requirements.txt
+```
 
