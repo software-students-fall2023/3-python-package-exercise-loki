@@ -3,9 +3,9 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "projectPack"
-description = "A python package " #TODO : NEED TO UPDATE DESCRIPTION AND NAME
-version = "0.0.1"
+name = "harry_potter"
+description = "A python package "
+version = "0.0.2"
 authors = [
   { name="Samuel Shally", email="ss13104@nyu.edu" },
   { name="Ana Pacheco", email="asp9060@nyu.edu" },
@@ -32,3 +32,7 @@ dev = ["pytest"]
 
 [project.scripts]
 projectPack = "projectPack.__main__:main"
+
+[testpypi]
+username = __token__
+password = pypi-AgENdGVzdC5weXBpLm9yZwIkM2FlZTdiZDgtOTZhZS00MDFkLTg0YWMtYWVlYjNhYzMwNmU2AAIqWzMsIjZmOThhM2ZmLTUyNGEtNDlhNy05OTc1LTY5MjYxMGU0NjI5MiJdAAAGIK-cvfdaoti5h_hcCLBV3CV4ZY6mwNekS0HTtIIpChns
