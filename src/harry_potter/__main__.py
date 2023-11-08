@@ -1,7 +1,11 @@
-
+from create_wizard import CreateWizard 
 
 def main():
-  print("hello world !!!")
+   val = CreateWizard()
+   val.chooseAnimal("skdfn")
+   
+   
 
 if __name__ == '__main__':
+   
     main()
