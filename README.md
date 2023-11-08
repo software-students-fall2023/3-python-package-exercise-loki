@@ -33,6 +33,7 @@ Our project is Harry Potter-based and is split into five different functions:
 2- Activate the virtual environment: pipenv shell.
 4- Run pip install openai 
 5- Run pip install python-dotenv 
+6- Run OPENAI_API_KEY=[Your API key]
 3- Create a Python program file that imports your package and uses it: from harry_potter.create_wizard import CreateWizard 
 4- Create an instance of a wizard: wizard = CreateWizard() 
 5- Print the functions: e.g. print(wizard.wizardNameGenerator("american"))
