@@ -1,7 +1,7 @@
 from create_wizard import CreateWizard 
 
 def main():
-   val = CreateWizard()
+   print("runs")
    
 
 if __name__ == '__main__':
