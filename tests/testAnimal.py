@@ -1,8 +1,6 @@
 import pytest
 from src.harry_potter.create_wizard import CreateWizard
 
-
-
 class Test:
 
     def test_gryffindor_1(self,monkeypatch):
