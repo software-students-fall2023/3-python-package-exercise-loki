@@ -1,7 +1,5 @@
 
 
-
-
 class CreateWizard:
    
     # type indicates good or bad
