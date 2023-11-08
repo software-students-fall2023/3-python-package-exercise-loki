@@ -40,7 +40,8 @@ git clone https://github.com/software-students-fall2023/3-python-package-exercis
 - Install the virtual environment
 ```
 python3 -m venv .venv
-
+```
+```
 source .venv/bin/activate
 ```
 
