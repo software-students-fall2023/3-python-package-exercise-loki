@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "harry_potter"
 description = "A python package that allows users to create their own wizard. "
-version = "0.0.3"
+version = "0.1.0"
 authors = [
   { name="Samuel Shally", email="ss13104@nyu.edu" },
   { name="Ana Pacheco", email="asp9060@nyu.edu" },
