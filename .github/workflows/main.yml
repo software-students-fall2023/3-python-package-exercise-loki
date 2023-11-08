@@ -1,4 +1,4 @@
-name: CI / CD
+name: Samuel's Test
 on: [push]
 jobs:
   build:
