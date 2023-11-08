@@ -33,6 +33,3 @@ dev = ["pytest"]
 [project.scripts]
 projectPack = "projectPack.__main__:main"
 
-[testpypi]
-username = __token__
-password = pypi-AgENdGVzdC5weXBpLm9yZwIkM2FlZTdiZDgtOTZhZS00MDFkLTg0YWMtYWVlYjNhYzMwNmU2AAIqWzMsIjZmOThhM2ZmLTUyNGEtNDlhNy05OTc1LTY5MjYxMGU0NjI5MiJdAAAGIK-cvfdaoti5h_hcCLBV3CV4ZY6mwNekS0HTtIIpChns
