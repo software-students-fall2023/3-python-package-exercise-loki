@@ -21,6 +21,7 @@ jobs:
             pipenv install pytest 
             pipenv install pluggy
             pipenv install openai
+            pipenv install dotenv
             pipenv install
       - name: Turn on 'editable' mode
         run: |
