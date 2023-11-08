@@ -29,7 +29,13 @@ Our project is Harry Potter-based and is split into five different functions:
    - It takes the number of spells to be generated, utilizes Latin prefixes and suffixes, and randomly mixes them to create a fighting spell. The spells are returned in a 2D array where the inner array has four elements: the Latin prefix and suffix, and the English translation.
 
 ## Usage
+<hr>
 
 ## Contribute 
+- Clone the repository
+```
+Git clone https://github.com/software-students-fall2023/3-python-package-exercise-loki.git
+```
 
-- Testing 
+- Install the virtual environment
+
