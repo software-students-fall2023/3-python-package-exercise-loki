@@ -11,3 +11,4 @@ Our project is Harry Potter-based and is split into five different functions:
   - Takes the number of candies and chooses them randomly from a pre-defined list 
 - Generate a Harry Potter fighting spell. 
   - It takes the number of spells to be generated, utilizes Latin prefixes and suffixes, and randomly   mixes them to create a fighting spell. The Spells are returned in a 2D array where the inner array    has four elements: the Latin prefix and suffix and the English translation. 
+- Hi Ana 
