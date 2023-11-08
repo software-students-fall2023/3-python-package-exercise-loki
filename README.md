@@ -1,5 +1,7 @@
 # Create your own Wizard
 
+![Samuel's Badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
 ## Authors
 
 - Lemon - [Lemon's GitHub](https://github.com/Lefie)
