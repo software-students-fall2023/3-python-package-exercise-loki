@@ -251,11 +251,6 @@ class CreateWizard:
            print("Your animal is : " ,dict[3][points])
            return dict[3][points]
 
-
-    def chooseHouse(self):
-        pass
-
-
     #Lettting user match the house
     def chooseHouse(self, preference):
         if isinstance(preference, str):
