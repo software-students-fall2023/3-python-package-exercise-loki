@@ -24,7 +24,6 @@ Our project is Harry Potter-based and is split into five different functions:
 
 5. **Generate a Harry Potter Fighting Spell**
    - It takes the number of spells to be generated, utilizes Latin prefixes and suffixes, and randomly mixes them to create a fighting spell. The spells are returned in a 2D array where the inner array has four elements: the Latin prefix and suffix, and the English translation.
-   - 
 
 ## Usage
 
