@@ -20,6 +20,7 @@ jobs:
             pipenv --python ${{ matrix.python-version }}
             pipenv install pytest 
             pipenv install pluggy
+            pipenv install openai
             pipenv install
       - name: Turn on 'editable' mode
         run: |
