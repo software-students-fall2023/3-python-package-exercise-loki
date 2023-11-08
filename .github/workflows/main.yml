@@ -1,4 +1,4 @@
-name: Samuel's Test
+name: Samuel's Badge
 on: [push]
 jobs:
   build:
