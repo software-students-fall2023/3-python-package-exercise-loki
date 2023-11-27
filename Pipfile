@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pipenv = "*"
+build = "*"
+twine = "*"
+pytest = "*"
+openai = "0.28.1"
+python-dotenv = "*"
+
+[dev-packages]
+pytest = "*"
+
+[requires]
+python_version = "3"
