@@ -1,4 +1,4 @@
-name: Samuel's Badge
+name: CI
 on: [push]
 jobs:
   build:
